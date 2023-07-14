@@ -1,0 +1,30 @@
+.contact{
+    background-color:rgb(221, 151, 151);
+    border:2px solid black;
+    align-content: center;
+    height:500px;
+    width:60%;
+    margin-left:20%;
+    border-radius:10px;
+    
+}
+.form{
+    position: absolute;
+    margin-left: 17%;
+}
+.btn1{
+    background-color:brown;
+    margin-left:140px;
+    height:30px;
+    width:90px;
+    border-radius:10px;
+}
+.input{
+   height:35px;
+   width: 380px;
+
+}
+.form h1{
+  margin:50px;
+  margin-left: 100px;
+}
